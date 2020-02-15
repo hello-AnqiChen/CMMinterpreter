@@ -1,0 +1,16 @@
+/**
+* 声明变量
+* 变量赋值
+* 表达式运算
+* if...else 判断
+* while循环
+* 函数调用
+*/
+void main()
+{
+	int a=1.1;
+	real b=1;
+
+	write(a);
+	write(b);
+}

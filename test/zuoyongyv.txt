@@ -1,0 +1,11 @@
+//作用域越界
+int main(){
+	B();
+}
+
+void A(){
+int a=1;
+}
+void B(){
+write(a);
+}

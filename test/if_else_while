@@ -1,0 +1,27 @@
+int main()
+{
+	int a = 0;
+	int b = 1;
+	int c = 2;
+	int d;
+	int e;
+
+	if (a < b)
+	{
+		d = 1;
+		e = 2;
+	}else{
+		d = 5;
+		e = 6;
+	}
+	int f = d + e;
+
+    int g = 0;
+     while(g < 10)
+    {
+        g=g+2;
+    }
+    write(g);
+
+    write(f);
+}

@@ -1,0 +1,9 @@
+int main(){
+	int a = 8;
+	int b = 4;
+
+	if(a == b) {int c = a + b; write(c);}
+	if(a < b) {int  c= a - b;write(c);}
+	if(a <> b) {int c = a * b;write(c);}
+	if(a > b) {int c = a / b;write(c);}
+}
